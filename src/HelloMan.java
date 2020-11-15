@@ -12,6 +12,7 @@ public class HelloMan {
         String n = scanner.next();
 
 
-        System.out.print("Cześć, " + n);
+        System.out.print("Cześć, " + n + "!");
+        System.out.println("Miłego dnia!");
     }
 }
