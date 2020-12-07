@@ -2,7 +2,7 @@ public class FrequentNumberVer2 {
 
     public static void main(String[] args) {
 
-        int[] array = {4, 1, 9,9,9,9,4,3,4,4};
+        int[] array = {4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3};
 
         int counterOne = 0;
         int counterTwo = 0;
